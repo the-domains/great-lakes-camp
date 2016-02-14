@@ -1,0 +1,28 @@
+name: Great Lakes Camp
+favicon: null
+layout_spectrum: 0.12145391874946654
+typography_spectrum: 0.3265284418594092
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5854898777324706
+  lightness: 0.5622681565582752
+  saturation: 0.26457207137718797
+  rhythmicContrast: 0.4047330159228295
+purpose: []
