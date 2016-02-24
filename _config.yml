@@ -1,11 +1,7 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: Great Lakes Camp
+favicon: null
+layout_spectrum: 0.45898
+typography_spectrum: 0.1161381
 collections:
   - index:
       path: /
@@ -18,23 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0
-  brandStrength: 0
-  lightness: 0
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+  brandStrength: 0
+  lightness: 0
+  saturation: 0
   rhythmicContrast: 0
-typography_spectrum: 0.1161381
-layout_spectrum: 0.4305037
-cta:
-  bucket: null
-  version: null
-  domain: null
-favicon: null
-name: Great Lakes Camp
+purpose: []
