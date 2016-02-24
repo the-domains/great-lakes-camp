@@ -1,7 +1,5 @@
-cta:
-  bucket: null
-  version: null
-  domain: null
+favicon: null
+name: Great Lakes Camp
 opengraph:
   image: null
   type: null
@@ -20,7 +18,7 @@ collections:
       number: 10
 purpose: []
 color:
-  saturation: 1
+  saturation: 0
   brandStrength: 0.5854898777324706
   lightness: 0
   brandColors:
@@ -31,10 +29,12 @@ color:
     - '#FAD8D6'
   rhythmicContrast: 0
 typography_spectrum: 0.1161381
-layout_spectrum: 0.4305037
+cta:
+  bucket: null
+  version: null
+  domain: null
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-name: Great Lakes Camp
+layout_spectrum: 0.4305037
