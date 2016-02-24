@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Great Lakes Camp]]></title>
         <description><![CDATA[Great Lakes Camp]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/great-lakes-camp/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 15:57:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 24 Feb 2016 16:04:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/great-lakes-camp/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3648bcd-8cdf-44b3-95b9-9272a3b42f57.png">]]></description>
+            <link>https://thegrid.ai/great-lakes-camp/726eb426-ec16-4678-adff-72489aa374b7/index.html</link>
+            <guid isPermaLink="false">726eb426-ec16-4678-adff-72489aa374b7</guid>
+            <pubDate>Wed, 24 Feb 2016 16:02:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/76530bd0-bdfb-4fa4-8323-35c118fe3cfa.png">]]></description>
-            <link>undefined072c66bd-6c60-4098-8f69-7e0328aa2c0b/index.html</link>
+            <link>https://thegrid.ai/great-lakes-camp/072c66bd-6c60-4098-8f69-7e0328aa2c0b/index.html</link>
             <guid isPermaLink="false">072c66bd-6c60-4098-8f69-7e0328aa2c0b</guid>
             <pubDate>Wed, 24 Feb 2016 15:57:06 GMT</pubDate>
         </item>
